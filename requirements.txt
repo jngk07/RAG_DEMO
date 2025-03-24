@@ -1,0 +1,5 @@
+flask
+transformers
+sentence-transformers
+faiss-cpu
+pymupdf
